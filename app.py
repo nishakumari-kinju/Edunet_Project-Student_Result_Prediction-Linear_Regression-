@@ -44,3 +44,4 @@ prediction = max(0, min(100,prediction))
 
 st.success (f"Predicted Exam Score: {prediction:.2f}")
 
+
